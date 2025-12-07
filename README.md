@@ -24,7 +24,7 @@ Once the currencies and amount are selected, users can tap the “Get Exchange R
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/ZmAIubnCDrs/hqdefault.jpg)https://youtu.be/ZmAIubnCDrs)
+[![Watch the video](https://img.youtube.com/vi/ZmAIubnCDrs/hqdefault.jpg](https://youtu.be/ZmAIubnCDrs)
 
 ### [Watch this video on YouTube](https://youtu.be/ZmAIubnCDrs)
 
