@@ -1,3 +1,17 @@
-This currency converter app provides a clean and modern interface that makes converting money between different countries simple and intuitive. At the top, users can enter the amount they want to convert, followed by two dropdown menus—one for the source currency and one for the target currency. Each dropdown is enhanced with a country flag icon 🇺🇸🇮🇳, making it easier to quickly recognize currencies at a glance. The center also includes a swap/flip button 🔁, allowing users to instantly reverse the currency direction without manually changing both fields.
+🖼️ App Overview
 
-Once the currencies and amount are selected, users can tap the “Get Exchange Rate” button to fetch the latest conversion value. The result appears neatly below, showing the exact conversion in a clear and bold format—e.g., 100 USD = 9002.51 INR. The overall design combines a glassy card effect with a futuristic background, creating a stylish and user-friendly experience. The interface not only looks visually appealing but also ensures smooth usability for anyone who wants quick and accurate currency conversions.
+This currency converter provides a clean, modern interface designed for simplicity and speed.
+Users can:
+
+Enter the amount at the top
+
+Choose the source and target currencies using flag-enhanced dropdowns
+
+Tap the swap/flip button to reverse direction instantly
+
+Press Get Exchange Rate to fetch real-time conversion data
+
+The results are displayed in a bold and clear format:
+100 USD = 9002.51 INR
+
+Combined with smooth transitions, a glass-effect card, and a futuristic background, it delivers a premium user experience.
