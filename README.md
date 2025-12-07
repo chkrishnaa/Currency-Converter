@@ -71,9 +71,7 @@ npm install
 ### 4. Get your Exchange Rate API key
 
 #### 4(a) Go to the website
-[Click here](https://www.exchangerate-api.com/)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-blue)](https://www.exchangerate-api.com/)
-[![App Screenshot](.public/screenshot2.png)](https://www.exchangerate-api.com/)
+[![Exchange Rate API](public/screenshot2.png)](https://www.exchangerate-api.com/)
 
 #### 4.2 Create a free account
 Click "Get Free API Key"
