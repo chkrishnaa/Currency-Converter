@@ -36,7 +36,7 @@ Once the currencies and amount are selected, users can tap the “Get Exchange R
 - Responsive layout for mobile and desktop.
 - Fast performance with React + Vite.
 
----
+--
 
 ## 🛠️ Tech Stack:
 
