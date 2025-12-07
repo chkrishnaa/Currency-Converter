@@ -7,9 +7,9 @@ Once the currencies and amount are selected, users can tap the “Get Exchange R
 
 ## 📸 Screenshots
 
-(Add your images in the `assets/` folder and update the paths below)
+(Add your images in the `public/` folder and update the paths below)
 
-![Screenshot 1](./assets/screenshot1.png)
+![Screenshot 1](./public/screenshot1.png)
 
 ---
 
@@ -17,7 +17,7 @@ Once the currencies and amount are selected, users can tap the “Get Exchange R
 
 (Add your thumbnail + YouTube/video link)
 
-[![Demo Video](./assets/video-thumbnail.png)](YOUR_VIDEO_LINK_HERE)
+[![Demo Video](./public/video-thumbnail.png)](YOUR_VIDEO_LINK_HERE)
 
 ---
 
@@ -72,13 +72,15 @@ npm install
 
 #### 4(a) Go to the website
 [Click here](https://www.exchangerate-api.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-blue)](https://www.exchangerate-api.com/)
+[![App Screenshot](.public/screenshot2.png)](https://www.exchangerate-api.com/)
 
 #### 4.2 Create a free account
 Click "Get Free API Key"
 
 #### 4.3 Copy your API key
 After signup, the dashboard will show your key and their request that are hide in red boxes given below. You didnt need to copy the request URL. Noly need to copy the API key written in Hexademical format.
-![Screenshot 2](./assets/screenshot2.png)
+![Screenshot 2](./public/screenshot3.png)
 
 
 ### 5. Create a .env file in your project root directory
