@@ -13,6 +13,7 @@ Once the currencies and amount are selected, users can tap the “Get Exchange R
 ## 🖼️ Sample Screenshot:
 
 This is a sample screenshot showing how the website looks
+
 ![Screenshot 1](./public/screenshot1.png)
 
 ---
@@ -24,6 +25,10 @@ This is a sample screenshot showing how the website looks
     <img src="https://img.youtube.com/vi/ZmAIubnCDrs/hqdefault.jpg" width="100%" height="25%" alt="Demo Video"/>
   </a>
 </p>
+
+## 🎥 Demo Video:
+
+[![Demo Video](./public/CurrencyConverterThumbnail.png)](https://youtu.be/ZmAIubnCDrs)
 
 ### [Watch this video on YouTube](https://youtu.be/ZmAIubnCDrs)
 
