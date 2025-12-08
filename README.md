@@ -20,14 +20,6 @@ This is a sample screenshot showing how the website looks
 
 ## 🎥 Demo Video:
 
-<p align="center">
-  <a href="https://youtu.be/ZmAIubnCDrs">
-    <img src="https://img.youtube.com/vi/ZmAIubnCDrs/hqdefault.jpg" width="100%" height="25%" alt="Demo Video"/>
-  </a>
-</p>
-
-## 🎥 Demo Video:
-
 [![Demo Video](./public/CurrencyConverterThumbnail.png)](https://youtu.be/ZmAIubnCDrs)
 
 ### [Watch this video on YouTube](https://youtu.be/ZmAIubnCDrs)
