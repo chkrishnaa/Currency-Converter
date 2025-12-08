@@ -10,19 +10,14 @@ Once the currencies and amount are selected, users can tap the “Get Exchange R
 
 ---
 
-## 📸 Sample Screenshot:
+## 🖼️ Sample Screenshot:
 
-(Add your images in the `public/` folder and update the paths below)
-
+This is a sample screenshot showing how the website looks
 ![Screenshot 1](./public/screenshot1.png)
 
 ---
 
 ## 🎥 Demo Video:
-
-(Add your thumbnail + YouTube/video link)
-
-## 🎥 Demo Video
 
 <p align="center">
   <a href="https://youtu.be/ZmAIubnCDrs">
@@ -84,7 +79,6 @@ Currency-Converter
 
 ---
 
-
 ## 🚀 Getting Started:
 
 Follow the steps below to run this project locally.
@@ -136,7 +130,7 @@ Currency-Converter
 │   ├── App.jsx
 │   ├── index.css
 │   ├── main.jsx
-├── .env                    <-- .env file is created
+├── .env                    ### .env file is created
 ├── index.html
 ├── package.json
 ├── vite.config.js
