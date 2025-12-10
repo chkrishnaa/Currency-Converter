@@ -83,13 +83,13 @@ Follow the steps below to run this project locally.
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/chkrishnaa/Currency-Converter.git
 ```
 
 ### 2. Navigate into the project directory:
 
 ```bash
-cd currency-converter
+cd Currency-Converter
 ```
 
 ### 3. Install dependencies:
