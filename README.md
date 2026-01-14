@@ -112,7 +112,7 @@ After signup, the dashboard will show your key and their request that are hide i
 ![Screenshot 2](./public/screenshot3.png)
 
 
-### 5. Create a .env file in your project root directory:
+### 5. Create a `.env` file in your project root directory:
 Create a .env file in your root directory and then you folder structure becomes:
 
 ```bash
@@ -135,7 +135,7 @@ Currency-Converter
 ├── README.md
 ```
 
-Now paste your Exchange Rate API Key in this .env file:
+Now paste your Exchange Rate API Key in this `.env` file:
 
 ```bash
 VITE_EXCHANGE_RATE_API_KEY=your_api_key_here
