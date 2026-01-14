@@ -20,9 +20,10 @@ This is a sample screenshot showing how the website looks
 
 ## 🎥 Demo Video:
 
-[![Demo Video](./public/CurrencyConverterThumbnail.png)](https://youtu.be/ZmAIubnCDrs)
+[![Demo Video](./public/CurrencyConverterThumbnail.png)](https://youtu.be/eC2Rq-AYMqo)
 
-### [Watch this video on YouTube](https://youtu.be/ZmAIubnCDrs)
+
+### [Watch this video on YouTube](https://youtu.be/eC2Rq-AYMqo)
 
 ---
 
